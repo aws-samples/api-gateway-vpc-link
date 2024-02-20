@@ -4,7 +4,7 @@ AWS API Gateway VPC Link allows you to connect your AWS API Gateway with resourc
 
 ## Sample Architecture Using AWS API Gateway VPC Link
 
-Let’s illustrate this with a sample architecture:
+Let’s illustrate this with a sample architecture: ![AWS VPC LINK](VPC Link.png "AWS VPC LINK")
 
 ### 1. API Gateway for REST APIs:
 - **The first API** is a direct integration with Amazon Simple Queue Service (SQS). This setup allows for efficient message queuing and processing.
